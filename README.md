@@ -1,1 +1,2 @@
-# exercicios dionatan
+# Execicios Dionatan
+Criacao de Projeto GitHub
